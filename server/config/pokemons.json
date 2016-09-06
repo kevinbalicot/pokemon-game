@@ -1,0 +1,8 @@
+{
+    "1": {
+        "routine": ["left", "wait", "bottom", "wait", "right", "wait", "top", "wait", "left", "wait", "bottom", "wait", "right"]
+    },
+    "7": {
+        "routine": ["right", "wait", "right", "wait", "bottom", "wait", "left", "wait", "left", "wait", "top", "wait", "bottom", "wait", "left", "wait", "left"]
+    }
+}
